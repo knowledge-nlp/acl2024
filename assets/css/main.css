@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	zoom: 110%;
 }
 
 ol, ul {
@@ -99,7 +100,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #474747;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: "Book Antiqua", serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
